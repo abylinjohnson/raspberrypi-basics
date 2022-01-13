@@ -1,4 +1,4 @@
-# This repository is made by when I learned Raspberry PI
+# This repository is made by me when I learned Raspberry PI
 
 In this repository you can find some template codes to get started with raspberry pi.
 
